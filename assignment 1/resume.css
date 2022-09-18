@@ -232,6 +232,9 @@ body {
 .resume .resume_right .resume_hobby ul li:last-child:before {
   display: none;
 }
+
+
+
 @media (max-width:800px){
 .resume{
 margin:10px;
@@ -286,5 +289,6 @@ align:center;
 width:500px;
 }
 }
+
 
 
